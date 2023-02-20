@@ -1,0 +1,286 @@
+{
+  "lowestBns": {
+    "000.btc": {
+      "id": "32182f62a3a59ae269f26854c9a20cd3d0b764c14fb0251e9a46a7d8cd8b162di0",
+      "num": 40727
+    },
+    "871.btc": {
+      "id": "1bc3082580cab23a5cfe6ac1c87930ad83bba2096393d37b4fd596a14686004ai0",
+      "num": 122206
+    },
+    "888.btc": {
+      "id": "f4d2fa34fb502d54a0f0c99593e125dded0760cb54fb095de2c0c148caa03190i0",
+      "num": 40742
+    },
+    "55.btc": {
+      "id": "a01b7cac8ab398c7b0e266bae23d27f70a267dc404db439fc6ed94e59762ef66i0",
+      "num": 40690
+    },
+    "211.btc": {
+      "id": "1932e4d866b354a2bbe41e362fe31471d1f8f70bfda65333b68171cc2c511f7ci0",
+      "num": 74805
+    },
+    "985.btc": {
+      "id": "517670fcba94ca9d34e1ab315fe13356b611b41d670d4cfcf4a4c9015dfef236i0",
+      "num": 44201
+    },
+    "69.btc": {
+      "id": "24e8485ad74165fc9e331efa3b9eedeb382fc964f4f6499745f8abe051d40a23i0",
+      "num": 40681
+    },
+    "288.btc": {
+      "id": "cca8990d232023b4e76f83375adaa9b8467eb9f490fdfdfdb99db48a88099b23i0",
+      "num": 48160
+    },
+    "83.btc": {
+      "id": "9c9d3a595f123abe6031b36f007316c555d99873bf1ce1a79c6d8b0861d087c4i0",
+      "num": 68458
+    },
+    "67.btc": {
+      "id": "a33aa1259243dfcfc4242ed46a82b32a0562f0c03144faa0d1e7d6fa2dcfa6fbi0",
+      "num": 43761
+    },
+    "71.btc": {
+      "id": "af69bc7d66dbb926f0e302516ab75fda389bc08e5c227d092609ab6c26db9e15i0",
+      "num": 68441
+    },
+    "1.btc": {
+      "id": "9ba5066ee169289087167b963145901340e295a829fc9bda93ea4df45150a641i0",
+      "num": 35648
+    },
+    "166.btc": {
+      "id": "900086b9442a9340671180ccb943afe3e3cc192b3248dd9d4c58a18a3c968fd8i0",
+      "num": 62247
+    },
+    "420.btc": {
+      "id": "b4ebd9bf35afdb9ca0f2a28a61965b64697cb09eb78c959296b9bacaf2ceba33i0",
+      "num": 40731
+    },
+    "0.btc": {
+      "id": "c3045195b67e2555f4f3109dfda345e6a57e271a8e6c0d9a25ddf52efbdcc4d2i0",
+      "num": 40700
+    },
+    "231.btc": {
+      "id": "70cb16c4e4e751aa291fbf8d347c7cb6ddd7f76f80c71a38799f30552952064ci0",
+      "num": 51948
+    },
+    "232.btc": {
+      "id": "cf13b3b8b0d07d2177e4d6abdc029d630de42286738df8df2f51966d7e2ae648i0",
+      "num": 51947
+    },
+    "27.btc": {
+      "id": "eb20e9f6ba2ced780d42415f258ecde6944f9ccfa70e418aeb7be68d8bc39504i0",
+      "num": 51925
+    },
+    "233.btc": {
+      "id": "79938dcc9bdb84fdc8da3ecb123335cc3d4c6e633ce9c32c3c5d30c76a2a8ab6i0",
+      "num": 50812
+    },
+    "243.btc": {
+      "id": "2e210a228992dc25a40507d9caa014924b7b1a534d40be9099e1f1a9f51b7068i0",
+      "num": 50811
+    },
+    "7.btc": {
+      "id": "c1de64eaec0ef733392a86bf25e4987744bf80d0c7362a5483f7043dfac079dai0",
+      "num": 40703
+    },
+    "140.btc": {
+      "id": "742d645d5545b699c03c2b54de7d52d48430267888174a30144b8073cfcea069i0",
+      "num": 50691
+    },
+    "48.btc": {
+      "id": "e0c6f5bf12012fd4a11e923eedd3fd1c06de5162fd02763aa1fc766e2a51f6e2i0",
+      "num": 50615
+    },
+    "298.btc": {
+      "id": "a30f674e517c91e6a9e1a0f2819f8e2ef44b00451c00781a5b193d8428862151i0",
+      "num": 47581
+    },
+    "296.btc": {
+      "id": "4a74d7eb537fdd7628f2a98bf8b3d1ce6665e36709df8cfd851861c7a0198abci0",
+      "num": 47573
+    },
+    "983.btc": {
+      "id": "6dbc1782c100a24ac4e5d2a92a840b6945f15d8f876b831a8fae5e62399054eci0",
+      "num": 44364
+    },
+    "984.btc": {
+      "id": "3ea751125137df9e88fc1974c0ed42ab1926ebf3cd4efcdfa8d7ef6bd79e57ddi0",
+      "num": 44328
+    },
+    "986.btc": {
+      "id": "df092d560a792f30f03d98bfd0d18e32efea42aacce42d2ae105ee47ed2c1871i0",
+      "num": 44202
+    },
+    "987.btc": {
+      "id": "48754d7ca66e3f7047856485a351a5d90d67cfa7c9dc0a6637aac1f15a209e09i0",
+      "num": 44137
+    },
+    "87.btc": {
+      "id": "9bfd9f84c410707d12e7563ee2c0b8657b918e16b6108372a21d87f28c160135i0",
+      "num": 44010
+    },
+    "001.btc": {
+      "id": "9abfaa1dc20b7d06915405a152a31fcbc84d29981403be44dbb4a254848392dai0",
+      "num": 42989
+    },
+    "777.btc": {
+      "id": "0a64ca12d42ae8b6cb7ad132047b764fc9ce26648198cfbd5904f05a17086e48i0",
+      "num": 40735
+    },
+    "145.btc": {
+      "id": "a9a46b1764f7cd18c61914cd05b3fb1d623af320f3e58f7de8f85f1e797c8661i0",
+      "num": 42535
+    },
+    "183.btc": {
+      "id": "cd2328b74ca5cea12506e554fe5b86a9fc1d6183510ae5cb9b5775fecee97b82i0",
+      "num": 42356
+    },
+    "192.btc": {
+      "id": "175b435f684e354247d07ecc09d4624d8fb24137e2e876fd49cc6a649ddd37d9i0",
+      "num": 42122
+    },
+    "178.btc": {
+      "id": "2487d73e44f3b7049f018582c60128e1e0d444b422d26a249b33f05e40270479i0",
+      "num": 42119
+    },
+    "141.btc": {
+      "id": "5d18070d8e7379efa131166d97292aae798ab7508354e6b6ae90d24588068bb2i0",
+      "num": 42001
+    },
+    "157.btc": {
+      "id": "bea73ad6ff5c80aae4ee7e9af0597b9854d883654aef66f75906c246e06878aai0",
+      "num": 42000
+    },
+    "174.btc": {
+      "id": "7b4923f29730e5e755720644890c562a52c87f0062351f4bfb045711b2c5792ci0",
+      "num": 41990
+    },
+    "555.btc": {
+      "id": "7490c8f1e99a80b02583b66cd063cd0247d0a32d59d6f34d2a9d91b1c2e460a3i0",
+      "num": 40745
+    },
+    "666.btc": {
+      "id": "62ef0d6d79ef14c62ad9d5622858d11d63b7e3d5f58458e67b31d6f3dadf768fi0",
+      "num": 40741
+    },
+    "333.btc": {
+      "id": "6e27b938637cee8f67a5157c836b577b693f825ed97d7ae276d210cf93ec6c79i0",
+      "num": 40739
+    },
+    "999.btc": {
+      "id": "cba3670cbcd242b530663a16b92a0a5b65fea3305fc120bf83fcbc764425af6bi0",
+      "num": 40738
+    },
+    "444.btc": {
+      "id": "c98d7c1e52e185277194af2fdaa5ef91a1c3bf741ef42a4e1dc3f2874f840c30i0",
+      "num": 40729
+    },
+    "111.btc": {
+      "id": "3d9d00bbaa6e31b788d1e0b3cc83d871fa154169dd9e78f6e608c20cf78cea28i0",
+      "num": 40726
+    },
+    "222.btc": {
+      "id": "7e96149f43273010e06c055461bc55b7f5b374fcd1fe73f9ef88da96dd998013i0",
+      "num": 40723
+    },
+    "5.btc": {
+      "id": "694e707547b049a4a22e81c80ee4e8bee04f746b942ea95ff965c8429e8977f0i0",
+      "num": 40704
+    },
+    "00.btc": {
+      "id": "5e00fdc99368fb1bf69314d4ba8eeed9c198caf9a063832faa282f52c05e77dai0",
+      "num": 40702
+    },
+    "66.btc": {
+      "id": "e956718eaff7ebad58746c952fe530d7ded06a049a6565021d4da881b3c535d7i0",
+      "num": 40701
+    },
+    "77.btc": {
+      "id": "9dfbb1c87b3052d1dd4614e46db13429f55654e5917350e79e9bc2e5af39c0cei0",
+      "num": 40699
+    },
+    "44.btc": {
+      "id": "53eb141bb9f8f20a7c878accc282a5235bd31f1ebb67ed202826e5fd2e0223c1i0",
+      "num": 40697
+    },
+    "6.btc": {
+      "id": "5ec162196eacc5153d6534736613c1b26e89679fc9929a34ba487f0258875cb8i0",
+      "num": 40695
+    },
+    "88.btc": {
+      "id": "7f5dc0a131cf7686ae379ddabbab9968f69ab2d2f3b5d673c95cce2870a6f0afi0",
+      "num": 40693
+    },
+    "4.btc": {
+      "id": "0b883483ac7e198f52bb7b4ea4ee3d7203fa7790a3013287d205f5f6dd35a2a3i0",
+      "num": 40692
+    },
+    "11.btc": {
+      "id": "fc58ad39947fac96640e27bd3b9388963830968eaf7545388fb48cf8c84eb44ci0",
+      "num": 40688
+    },
+    "8.btc": {
+      "id": "7bb8fb1e4697fbcf3025fff6f34b94c298a78a60f51684b55b311be6bdffca49i0",
+      "num": 40687
+    },
+    "3.btc": {
+      "id": "3225edd2f670ff9a9a706366f5a7420871d6feb97f0407d1b4e8a9d676923d41i0",
+      "num": 40686
+    },
+    "9.btc": {
+      "id": "c9b3d27b1867b2613b72a3a4a89d69d239ced9349ddcb248b6267f7d5069f733i0",
+      "num": 40685
+    },
+    "22.btc": {
+      "id": "7f504c4dbd62e23bf32b2c759d914fc9ee55c644c2d278119ed75dcce74b5e2fi0",
+      "num": 40683
+    },
+    "99.btc": {
+      "id": "e8e4205e2768c9114b134adb1d4b343b7c93c88a617372a21183d7910b1e1f25i0",
+      "num": 40682
+    },
+    "33.btc": {
+      "id": "d223d65cc68bd6e7903975e8b205a4f07881ad4cafb9e6545dde35f07b8bfb1ci0",
+      "num": 40680
+    },
+    "2.btc": {
+      "id": "72c1ce5c9359076a542f613b9229c3f737dcdf821d9b103614f6440f6f69ca19i0",
+      "num": 40679
+    },
+    "100.btc": {
+      "id": "9bf564a3efc45f3dee3bd920c60590ba4c8dce44a1faa2e6ce4e21d134dce620i0",
+      "num": 145175
+    },
+    "01.btc": {
+      "id": "348a24633d233d565270882e757357fd1635dd6f222d54258d0ce2de75e060f0i0",
+      "num": 145152
+    },
+    "10.btc": {
+      "id": "50e1b9728f5c83d08ee9c6178858cad6a79cfc292a210c861cb34942f60b1f86i0",
+      "num": 145151
+    },
+    "010.btc": {
+      "id": "626f8cd97b93aacebf6e89864a961cb3647fe8fe4939cd8d34e72d0c6cd3f9f6i0",
+      "num": 145574
+    },
+    "02.btc": {
+      "id": "2c1892192d8bcb4ca08bdc3133fd36cdb58936189eb80cc2f785faa3f4a5d455i0",
+      "num": 145547
+    },
+    "123.btc": {
+      "id": "bf68bd6a1b2bd96d2f05b3c5d79bda191d8fccdb1265fe4a6b962c0af168d153i0",
+      "num": 145546
+    },
+    "12.btc": {
+      "id": "dd5e7dbb11c4ccecad30935422e6c7b6784efa5e1d21aa1cc9e06809095ab357i0",
+      "num": 145218
+    },
+    "101.btc": {
+      "id": "0344798aad0264154e0d0190b7f4cd3bb0976af0d1a93b569c3c22015cb64891i0",
+      "num": 148710
+    }
+  },
+  "latestOffset": 3600,
+  "syncedToNum": 139489
+}
