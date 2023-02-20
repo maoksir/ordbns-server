@@ -279,8 +279,12 @@
     "101.btc": {
       "id": "0344798aad0264154e0d0190b7f4cd3bb0976af0d1a93b569c3c22015cb64891i0",
       "num": 148710
+    },
+    "520.btc": {
+      "id": "8dbcb4083b4c06bf1e27db0f8fc4f3e3cb188bc817a528ab4c10e38e5c621f10i0",
+      "num": 150437
     }
   },
   "latestOffset": 0,
-  "syncedToNum": 149870
+  "syncedToNum": 150796
 }
