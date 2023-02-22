@@ -37,7 +37,7 @@ function updateGithub() {
         console.log('Probably no changes')
         return
     }
-    child_process.execSync('git push origin')
+    child_process.execSync('git push origin BnsServer')
 }
 
 async function processBatch(inscriptions) {
@@ -50,20 +50,21 @@ async function processBatch(inscriptions) {
         }
     })
     const results = await Promise.all(promises)
-	const pattern = /^\d{1,3}\.btc$/
+	//const pattern = /^\d{1,3}\.btc$/
     for (const result of results) {
         const text = result.data
         const it = result.inscription
-        if (pattern.test(text)) {
-            console.log(`\n\n\n~~~~~~~~~~\n\n\nFound BNS: ${text}\n\n\n~~~~~~~~~~\n\n\n`)
-            if (!storage.lowestBns[text] || it.num < storage.lowestBns[text].num) {
-                storage.lowestBns[text] = {
-                    id: it.id,
-                    num: it.num
-                }
-            }
-            fs.writeFileSync(STORAGE_FILE, JSON.stringify(storage, null, 2))
-        }
+		 if (text.length < 30 ) {
+			console.log(`\n\n\n~~~~~~~~~~\n\n\nFound BNS: ${text}\n\n\n~~~~~~~~~~\n\n\n`)
+			if (!storage.lowestBns[text] || it.num < storage.lowestBns[text].num) {
+			    storage.lowestBns[text] = {
+			        id: it.id,
+			        num: it.num
+			    }
+			}
+			fs.writeFileSync(STORAGE_FILE, JSON.stringify(storage, null, 2))
+		 }
+        // if (pattern.test(text)) {}
     }
 }
 
