@@ -37,7 +37,7 @@ function updateGithub() {
         console.log('Probably no changes')
         return
     }
-    child_process.execSync('git push branch BnsServer')
+    child_process.execSync('git push origin BnsServer')
 }
 
 async function processBatch(inscriptions) {
