@@ -49003,8 +49003,92 @@
     "₿\n\n": {
       "id": "a2dc2d95620293d9b8f07bcbfc0f2068adddc38057fdfb16feedfa177ff60216i0",
       "num": 164502
+    },
+    "tt: ordbits_btc": {
+      "id": "0f2ad9e561b576f7c6877d392f967dccda19b94436d6286d5cdf8fbe8c7eb072i0",
+      "num": 164848
+    },
+    "appwrite.btc": {
+      "id": "cbe7650f1c27490b904c1c501d85fb12196a65e6aa456637176b788c58a74c4bi0",
+      "num": 164744
+    },
+    "ChatGPT": {
+      "id": "7216eaef47df3d4cafe256fde23aad1fe54e4c8e6d740d38dd9b70f4600597f5i0",
+      "num": 164651
+    },
+    "gg": {
+      "id": "c6e542227e771b57896ffbfcb61ba3bca508738d9ef76864317b261d9df304c8i0",
+      "num": 164650
+    },
+    "Sir": {
+      "id": "fb59b3d23523025dbd68cac44fa132b35faf349db5c3152d83cb7888650335c2i0",
+      "num": 164649
+    },
+    "Bear": {
+      "id": "84c241aec726c6fcd8a1727ae14e55e2e58cf802d8152c027f90eccc799188b8i0",
+      "num": 164648
+    },
+    "Alpha": {
+      "id": "d69efa017605869aa288219da5fffec7883d16254c8185cb0ab82cff9d4129b5i0",
+      "num": 164647
+    },
+    "Crypto": {
+      "id": "ebc999780eeb315a0fb2db327a3903bdbf7d534ad87c53bd06d4f053189970a1i0",
+      "num": 164646
+    },
+    "Bull": {
+      "id": "5efb8d310bb38b20ffea87f731b5f7d5ed5715b8846c8fc30eb228fa8cc6068fi0",
+      "num": 164645
+    },
+    "Zeus": {
+      "id": "d5d08a3fb12d825f2405fcc5eac9578be5aa5c642e310854b558728793ca328ai0",
+      "num": 164644
+    },
+    "Master": {
+      "id": "d57eee6173faa8ab49e35b4a3fc02c37bc84086d74015451f11104d4e15faa74i0",
+      "num": 164643
+    },
+    "Ordinal": {
+      "id": "160d0cffb05d66816f6b7d76f8616aea8cb758c8aa475de491c35ac03b19fc69i0",
+      "num": 164642
+    },
+    "Binance": {
+      "id": "79d0c24a9ffec40fa0b0808c0834dc7b5897ff065311a570e3e8dbd872170268i0",
+      "num": 164641
+    },
+    "Stacks": {
+      "id": "e9ad2a1370bb2bd44d85e3309d19be3355fc4ecad535a65a4005307c57f1e767i0",
+      "num": 164640
+    },
+    "NFT": {
+      "id": "bbee58a5996a6c60d3d1dfdc2452005def411e96fd4278455470339732062257i0",
+      "num": 164639
+    },
+    "Thor": {
+      "id": "64ecb8f291ec42b0966137f32a9ce0f3c060b93158839eac92def8c1f5408e27i0",
+      "num": 164638
+    },
+    "ETH": {
+      "id": "e76bbd173bc5172d5700493e8fa65a1087ad6a17b301c72bb2cabb2be47a6722i0",
+      "num": 164637
+    },
+    "GG": {
+      "id": "6b1a81e645c09addf47d170640f110c98c32f8fe7194e3f741f3b7bb44edac1di0",
+      "num": 164636
+    },
+    "Doc": {
+      "id": "9a7dfd709ef952c4512d153aaca90160055e0efa317cb634380b554e1b52f604i0",
+      "num": 164635
+    },
+    "Z.com": {
+      "id": "dc543dba65f80445f0307c9e7e13135285ace5fd65c103300eea817b2609e443i0",
+      "num": 164556
+    },
+    "Q.com": {
+      "id": "795327e2d3f4ca5fc0e9c0739c669cda37d670e27bfc8e7b742a9a8d1e114f54i0",
+      "num": 164525
     }
   },
   "latestOffset": 0,
-  "syncedToNum": 164520
+  "syncedToNum": 164850
 }
